@@ -1,7 +1,0 @@
-npm outdated
-npm update express
-npm i express@14.0.4
-semver: 버전 앞의 기호에 따라 버전 허가 기준이 달라진다
-npm i --global express or npm i express >> npx express
-npm ls base
-배포도 할 수 있고, 24시간 이내라면 지울수도 있음
